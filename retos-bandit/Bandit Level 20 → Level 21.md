@@ -6,6 +6,7 @@ There is a setuid binary in the homedirectory that does the following: it makes 
 bandit20@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 ## Solucion
+**
 bandit20@bandit:~$ ls -la
 total 36
 drwxr-xr-x  2 root     root      4096 Oct  5 06:19 .
@@ -68,7 +69,7 @@ Connection received on 127.0.0.1 59990
 Read: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 Password matches, sending next password
 NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
-[3]+  Done                    nc -lnvp 34561 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+[3]+  Done                    nc -lnvp 34561 <   < VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 
 ## Notas adicionales 
 aqui dice que necesitamos abrir cualquier puerto y agregarle la contraseña para que no la arrogue entonces con el comando **nc -lnvp 1234 <<< y la contraseña de anterior nivel mas el amperson para que no se cierre** y despues tenemos que agregar ./suconnect mas el puerto abierto por nosotros
