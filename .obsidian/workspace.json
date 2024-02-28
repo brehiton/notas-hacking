@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Bandit Level 31 → Level 32.md",
+                "file": "retos-bandit/Bandit Level 33 → Level 34.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit Level 31 → Level 32.md",
+                "file": "retos-bandit/Bandit Level 33 → Level 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit Level 31 → Level 32.md",
+                "file": "retos-bandit/Bandit Level 33 → Level 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit Level 31 → Level 32.md"
+                "file": "retos-bandit/Bandit Level 33 → Level 34.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "6ca73a89e3463334",
   "lastOpenFiles": [
+    "retos-bandit/Bandit Level 32 → Level 33.md",
+    "retos-bandit/Bandit Level 33 → Level 34.md",
+    "retos-bandit/Bandit Level 31 → Level 32.md",
     "retos-bandit/Bandit Level 30 → Level 31.md",
     "retos-bandit/Bandit Level 29 → Level 30.md",
-    "retos-bandit/Bandit Level 31 → Level 32.md",
     "retos-bandit/Bandit Level 28 → Level 29.md",
     "retos-bandit/Bandit Level 27 → Level 28.md",
     "retos-bandit/Bandit Level 26 → Level 27.md",
@@ -172,8 +174,6 @@
     "picoCTF/primerParcial/07-Lets Warm Up.md",
     "picoCTF/primerParcial/03-Nice netcat....md",
     "picoCTF/primerParcial/04-Static ain't always noise.md",
-    "picoCTF/primerParcial/05-Tab, Tab, Attack.md",
-    "picoCTF/primerParcial/06-Magikarp Ground Mission.md",
     "picoCTF/primerParcial",
     "picoCTF",
     "retos-bandit"
