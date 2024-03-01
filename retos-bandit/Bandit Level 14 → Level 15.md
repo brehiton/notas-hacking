@@ -6,6 +6,7 @@ o
 bandit14@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 ## Solucion
+```
 bandit14@bandit:~$ nc localhost 30000
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 Correct!
@@ -30,6 +31,7 @@ hola quien eres
 xxd
 ^C
 bandit14@bandit:~$
+```
 ## Notas adicionales 
 conoci el comando "nc" que podemos utilizarlo para conetarnos a puertos por ejemplo nc localhost 30000 y despues la contraseña 
 ## Referencias 

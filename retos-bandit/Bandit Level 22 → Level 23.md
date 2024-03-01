@@ -6,6 +6,7 @@ A program is running automatically at regular intervals from **cron**, the time
 bandit22@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
 ## Solucion
+```
 bandit22@bandit:~$ ls /etc/cron.d -la
 total 56
 drwxr-xr-x   2 root root  4096 Oct  5 06:20 .
@@ -61,6 +62,7 @@ bandit22@bandit:~$ echo I am user $myname | md5sum | cut -d ' ' -f 1
 bandit22@bandit:~$ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
 QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
 bandit22@bandit:~$
+```
 ## Notas adicionales 
 entramos al directorio de **/etc/cron.d/** con un ls para solamente ver, le hacemos un cat al archivo 23 que es el que esperamos resolver, es un tipo bash lo sabremos por que tiene **#!/bin/bash** ejecutamos los que nos muestra si es que lleva un echo, y para ver el mensaje seria primero el $y el comando y ya despues nos dara la contraseña.
 siempre con un cat y echo para el bash

@@ -4,6 +4,7 @@ A program is running automatically at regular intervals from **cron**, the time
 bandit21@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 ## Solucion
+```
 bandit21@bandit:~$ cat /etc/crontab
 # /etc/crontab: system-wide crontab
 # Unlike any other crontab you don't have to run the `crontab'
@@ -94,6 +95,7 @@ bandit21@bandit:~$ cat
 bandit21@bandit:~$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
 bandit21@bandit:~$
+```
 ## Notas adicionales 
 el contab hace comandos fantasma que se ejecutan cada rato como las programemos, entones para este nivel necesitamos ver que hay en ejecucion y vemos el nivel siguiente entonces nos da la contraseña con un cat 
 ## Referencias 

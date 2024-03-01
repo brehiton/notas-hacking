@@ -7,7 +7,7 @@ To get the file accessible in your shell, enter the following in the Terminal pr
 
 $ man cat
 ## Solucion
-'''
+```
 brehiton2-picoctf@webshell:~$ wget https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag
 --2024-02-27 18:32:59--  https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag
 Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142
@@ -24,7 +24,7 @@ brehiton2-picoctf@webshell:~$ ls
 README.txt  ciphertext  ciphertext.1  ciphertext.2  flag  new_caesar.py
 brehiton2-picoctf@webshell:~$ cat flag
 picoCTF{s4n1ty_v3r1f13d_2aa22101}
-'''
+```
 ## Notas adicionales 
 wget permite descargar archivo de internet 
 ## Referencias 

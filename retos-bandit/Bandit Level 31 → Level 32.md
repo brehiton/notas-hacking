@@ -6,6 +6,7 @@ Clone the repository and find the password for the next level.
 bandit31@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt
 ## Solucion
+```
 bandit31@bandit:~$ mkdir /tmp/contri
 bandit31@bandit:~$ cd /tmp/contri
 bandit31@bandit:/tmp/contri$ git clone ssh://bandit31-git@localhost:2220/home/bandit31-git/repo
@@ -130,6 +131,7 @@ To ssh://localhost:2220/home/bandit31-git/repo
  ! [remote rejected] master -> master (pre-receive hook declined)
 error: failed to push some refs to 'ssh://localhost:2220/home/bandit31-git/repo'
 bandit31@bandit:/tmp/contri/repo$
+```
 ## Notas adicionales 
 hizo push desde la consola creando un archivo .txt
 ## Referencias 

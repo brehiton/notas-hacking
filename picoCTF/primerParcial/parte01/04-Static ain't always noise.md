@@ -3,7 +3,7 @@ Can you look at the data in this binary: [static](https://mercury.picoctf.net/s
 ## Pistas
 
 ## Solucion
-'''
+```
 brehiton2-picoctf@webshell:~$ wget https://mercury.picoctf.net/static/7495259e963bd5b67d0fb8b616652618/static
 --2024-02-27 19:14:09--  https://mercury.picoctf.net/static/7495259e963bd5b67d0fb8b616652618/static
 Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142
@@ -34,7 +34,7 @@ brehiton2-picoctf@webshell:~$
 
 picoCTF{d15a5m_t34s3r_f6c48608}
 
-'''
+```
 ## Notas adicionales 
 utilizamos un strinegs mas el nombre del archivo con | y con un grep pico hace una busqueda y un cuentra el picoCTF Ejemplo: **strings static | grep pico**
 ## Referencias 

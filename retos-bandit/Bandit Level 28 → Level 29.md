@@ -6,7 +6,7 @@ Clone the repository and find the password for the next level.
 bandit28@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: AVanL161y9rsbcJIsFHuw35rjaOM19nR
 ## Solucion
-´´´
+```
 bandit28@bandit:~$ mkdir /tmp/contra
 bandit28@bandit:~$ cd /tmp/contra
 bandit28@bandit:/tmp/contra$ cat /etc/bandit_pass/bandit28
@@ -115,7 +115,7 @@ Some notes for level29 of bandit.
 
 bandit28@bandit:/tmp/contra/repo$
 
-´´´
+```
 ## Notas adicionales 
 es igual como el otro creamos una carpeta en tmp, le hacemos un cat a **/etc/bandit_pass/bandit28**  para sacar la contraseña del git que vamos a clonar entonces la pegamos y le hacemos un cat al archivo que nos dan pero nos dice que el password esta en xxxxxx lo que debemos de hacer es utilizar el comando ** git log ** para ver las entradas y lo que vemos son commit vamos copiando los commit pero primero debemos de poner **git checkout** y el commit hasta que salga el password o contraseña como se le quiera decir
 ## Referencias 

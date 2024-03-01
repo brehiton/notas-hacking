@@ -11,7 +11,7 @@ Run this program by entering the following in the Terminal prompt: `$ ./warm`, 
 
 Not every program implements help features like -h and --help.
 ## Solucion
-'''
+```
 brehiton2-picoctf@webshell:~$ ls
 README.txt  ciphertext  ciphertext.1  ciphertext.2  flag  new_caesar.py  warm
 brehiton2-picoctf@webshell:~$  wget https://mercury.picoctf.net/static/cfea736820f329083dab9558c3932ada/warm
@@ -31,7 +31,7 @@ brehiton2-picoctf@webshell:~$ ./warm
 Hello user! Pass me a -h to learn what I can do!
 brehiton2-picoctf@webshell:~$ ./warm -h
 Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
-'''
+```
 ## Notas adicionales 
 aprendi a dar permisos con +x a archivos y el menos **-h** me dio la bandera 
 ## Referencias 

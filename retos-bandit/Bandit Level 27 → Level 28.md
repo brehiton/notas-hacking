@@ -6,6 +6,7 @@ Clone the repository and find the password for the next level.
 bandit27@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 ## Solucion
+```
 bandit27@bandit:~$ id
 bandit27@bandit:/tmp/bandit27_contrasena$ git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
 Cloning into 'repo'...
@@ -39,6 +40,7 @@ README
 bandit27@bandit:/tmp/bandit27_contrasena/repo$ cat README
 The password to the next level is: AVanL161y9rsbcJIsFHuw35rjaOM19nR
 bandit27@bandit:/tmp/bandit27_contrasena/repo$
+```
 ## Notas adicionales 
 cree una carpeta bandit_contrasena en la carpeta **tmp** y hice clonar el git que me ofrece agregandole el 2220 y listo un cat al archivo
 ## Referencias 

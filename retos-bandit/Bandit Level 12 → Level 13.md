@@ -4,6 +4,7 @@ The password for the next level is stored in the file **data.txt**, which is a 
 bandit12@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 ## Solucion
+```
 bandit12@bandit:~$ cat data.txt | xxd -d
 00000000: 3030 3030 3030 3030 3a20 3166 3862 2030  00000000: 1f8b 0
 00000016: 3830 3820 3638 3535 2031 6536 3520 3032  808 6855 1e65 02
@@ -262,6 +263,7 @@ data8: ASCII text
 bandit12@bandit:/tmp/prueba1234$ cat data8
 The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 bandit12@bandit:/tmp/prueba1234$
+```
 ## Notas adicionales 
 entendi que cuando el archivo esta en hexadecimal debo de poner este comando 
 -cat nombre del archivo | xxd -d (esto lo que hace es descomprimir)

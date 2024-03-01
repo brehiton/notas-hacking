@@ -4,6 +4,7 @@ The password for the next level is stored in **/etc/bandit_pass/bandit14 and ca
 bandit13@bandit.labs.overthewire.org -p 2220
 contraseña de anterior nivel: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 ## Solucion
+```
 bandit13@bandit:~$ ls
 sshkey.private
 bandit13@bandit:~$ cat /etc/bandit_pass/bandit14
@@ -126,7 +127,7 @@ Connection to localhost closed.
 bandit13@bandit:~$ exit
 logout
 Connection to bandit.labs.overthewire.org closed.
-
+```
 ## Notas adicionales 
 apredi el uso de las llaves privadas que son archivos por ejemplo la extension y debe ser asi sshkey.private
 ssh -i sshkey.private bandit14@localhost -p 2220 con este comando podemos entrar al siguiente nivel

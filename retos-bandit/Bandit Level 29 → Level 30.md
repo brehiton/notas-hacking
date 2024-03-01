@@ -6,6 +6,7 @@ Clone the repository and find the password for the next level.
 bandit29@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S
 ## Solucion
+```
 bandit29@bandit:~$ mkdir /tmp/contras
 bandit29@bandit:~$ cd /tmp/contras
 bandit29@bandit:/tmp/contras$ git clone ssh://bandit29-git@localhost:2220/home/bandit29-git/repo
@@ -159,6 +160,7 @@ Some notes for bandit30 of bandit.
 - password: xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS
 
 bandit29@bandit:/tmp/contras/repo$
+```
 ## Notas adicionales 
 aprendi el uso de los git checkout mas el commit y mas git checkout master etc
 

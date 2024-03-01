@@ -5,6 +5,7 @@ The credentials for the next level can be retrieved by submitting the password o
 bandit16@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: JQttfApK4SeyHwDlI9SXGR50qclOAil1
 ## Solucion
+```
 bandit16@bandit:~$ nmap -p31000-32000 localhost
 Starting Nmap 7.80 ( https://nmap.org ) at 2024-02-22 17:00 UTC
 Nmap scan report for localhost (127.0.0.1)
@@ -332,6 +333,7 @@ vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 
 closed
 bandit16@bandit:~$
+```
 ## Notas adicionales 
 para este ejercicio usamos nmap que es un escaniador de puertos que nos indica cuales son los que estan abiertos y tambien utilizamos ssl para que nos de la clave es igual como en el otro nivel pero nomas buscamos cual puerto esta abierto con el nmap
 ## Referencias 

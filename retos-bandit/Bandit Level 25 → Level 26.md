@@ -4,6 +4,7 @@ Logging in to bandit26 from bandit25 should be fairly easy… The shell for user
 bandit25@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
 ## Solucion
+```
 bandit25@bandit:~$ cat /etc/passwd
 root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
@@ -372,6 +373,7 @@ c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
  | |_) | (_| | | | | (_| | | |_ / /| (_) |
  |_.__/ \__,_|_| |_|\__,_|_|\__|____\___/
 ~                                                              ~                                                              ~                                                                                                          3,1           All
+```
 ## Notas adicionales 
 utilizamos la llave para conectarnos a bandit26 pero lo que paso era de que se salia entonces entramos al modo **more** que se hace haciendo la pantalla chica para entrar 
 la tecla con la que entramos fue con la letra **v**

@@ -6,6 +6,7 @@ Clone the repository and find the password for the next level.
 bandit30@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS
 ## Solucion
+```
 bandit30@bandit:/tmp/contraa$ bandit30@bandit:/tmp/contraa$
 bandit30@bandit:/tmp/contraa$ git clone ssh://bandit30-git@localhost/home/bandit30-git/repo
 Cloning into 'repo'...
@@ -73,6 +74,7 @@ secret
 bandit30@bandit:/tmp/contraa/repo$ git show secret
 OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt
 bandit30@bandit:/tmp/contraa/repo$
+```
 ## Notas adicionales 
 aprendi mas git branch 
 ## Referencias 

@@ -4,6 +4,7 @@ To gain access to the next level, you should use the setuid binary in the homedi
 bandit19@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 ## Solucion
+```
 bandit19@bandit:~$ ls -la
 total 36
 drwxr-xr-x  2 root     root      4096 Oct  5 06:19 .
@@ -28,6 +29,7 @@ uid=11019(bandit19) gid=11019(bandit19) euid=11020(bandit20) groups=11019(bandit
 bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 bandit19@bandit:~$
+```
 ## Notas adicionales 
 para este nivel necesitamos ver todos los directorios y encontramos con unos archivos de bandit20 entonces con el comando**bandit20-do** nos dice que lo podemos ejecutar con el ** bandit20-do id**
 y el comando clave aqui va hacer este  ./bandit20-do cat /etc/bandit_pass/bandit20

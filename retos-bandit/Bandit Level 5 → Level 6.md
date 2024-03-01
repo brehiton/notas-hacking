@@ -8,12 +8,13 @@ The password for the next level is stored in a file somewhere under the **inher
 bandit5@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 ## Solucion
+```
 bandit5@bandit:~/inhere$ man find
 bandit5@bandit:~/inhere$ bandit5@bandit:~/inhere$ find . -readable -size 1033c -type f
 ./maybehere07/.file2
 bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
-
+```
 ## Notas adicionales 
 find es un comando poderoso y permite buscar archivos y si le pongo 
 -readable nos muestra archivos legibles

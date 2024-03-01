@@ -7,12 +7,13 @@ bandi0
 bandi0
 
 ## Solucion
+```
 bandit0@bandit:~$ ls
 readme
 bandit0@bandit:~$ cat readme
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 bandit0@bandit:~$
-
+```
 ## Notas adicionales 
 ls --help nos brinda ayuda resumida de cualquier comando como en este caso el ls
 tambien el comando 

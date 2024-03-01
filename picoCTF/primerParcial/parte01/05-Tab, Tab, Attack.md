@@ -3,7 +3,7 @@ Using tabcomplete in the Terminal will add years to your life, esp. when dealing
 ## Pistas
 After `unzip`ing, this problem can be solved with 11 button-presses...(mostly Tab)...
 ## Solucion
-'''
+```
 ┌──(hectorr㉿kali2024)-[~]
 └─$ cd Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku 
                                                                                                                                                               
@@ -26,7 +26,7 @@ fang-of-haynekhtnamet: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), 
 
 
 picoCTF{l3v3l_up!_t4k3_4_r35t!_76266e38}
-'''
+```
 ## Notas adicionales 
 tabulador y lo que nos enseño el profe de strings mas el archivo con la barra | y grep con el nombre que queremos buscar **strings fang-of-haynekhtnamet | grep pico**
 ## Referencias 

@@ -6,6 +6,7 @@ The password for the next level can be retrieved by submitting the password of t
 bandit15@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 ## Solucion
+```
 bandit14@bandit:~$ openssl s_client -connect localhost:30001
 CONNECTED(00000003)
 Can't use SSL_get_servername
@@ -140,6 +141,7 @@ JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
 closed
 bandit14@bandit:~$
+```
 ## Notas adicionales 
 aprendimos sobre como conectarnos en ssl o tambien conocido como tls 
 y cuando nos conectamos al ssl pusimos la contrraseña del anterior nivel y podimos resolver el ejercicio.

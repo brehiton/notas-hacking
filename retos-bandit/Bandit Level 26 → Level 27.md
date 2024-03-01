@@ -4,7 +4,7 @@ Good job getting a shell! Now hurry and grab the password for bandit27!
 bandit26@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
 ## Solucion
-
+```
 C:\Users\RIVER>ssh bandit26@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
@@ -215,6 +215,7 @@ YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 bandit26@bandit:~$
 
 YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
+```
 ## Notas adicionales 
 entrar al modo more habilitar la shell con el comando **:set shell=/bin/bash**
 y despues la **:shell** y se mete hacemos un cat al archivo

@@ -4,7 +4,7 @@ After all this `git` stuff its time for another escape. Good luck!
 bandit32@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: rmCBvG56y58BXzv98yZGdO7ATVL5dW8y
 ## Solucion
-
+```
 C:\Users\RIVER>ssh bandit32@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
@@ -110,7 +110,7 @@ $ whoami
 bandit33
 $ cat /etc/bandit_pass/bandit33
 odHo63fHiFqcWWJG9rLiLDtPm45KzUKy
-$
+```
 ## Notas adicionales 
 cuando ni teniamos permisos el comando y el uso de **$** mas el cero por ejemplo **$0** logramos desbloquear eso y con un cat /etc/bandit_pass_bandit33 conseguimos el password
 ## Referencias 

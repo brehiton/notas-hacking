@@ -7,6 +7,7 @@ bandit17@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: **es la llave.txt que la creamos del anterior nivel**
 VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 ## Solucion
+```
 bandit17@bandit:~$ ls -la
 total 36
 drwxr-xr-x  3 root     root     4096 Oct  5 06:19 .
@@ -28,6 +29,7 @@ bandit17@bandit:~$ diff passwords.old passwords.new --color
 ---
 > hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 bandit17@bandit:~$ exit
+```
 ## Notas adicionales 
 el comando **diff** nos ayuda a contar los caracteres de uno por uno y comparar archivos y el 
 **--color** nos ayuda a ponerlo de colorsito

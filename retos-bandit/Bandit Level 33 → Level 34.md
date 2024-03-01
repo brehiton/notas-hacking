@@ -4,7 +4,9 @@
 bandit33@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: odHo63fHiFqcWWJG9rLiLDtPm45KzUKy
 ## Solucion
+```
 
+```
 ## Notas adicionales 
 
 ## Referencias 

