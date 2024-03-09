@@ -29,3 +29,4 @@ SQL query: SELECT * FROM admin where password = '' or 1==1;'
 ## Notas adicionales 
 primero que nada pusimos el debug en 1, despues pusimos el comando ' or 1= =1; y nos dio como resultado el ' be 1= =1; esto quiere decir que esta encriptado y pusimos esto en la contraseña para que hiciera referente a lo primero que pusimos y asi conseguimos la bandera
 ## Referencias 
+https://github.com/payloadbox/sql-injection-payload-list

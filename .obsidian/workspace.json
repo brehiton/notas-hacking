@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Web/Retos Web - Parte 2/04-JaWT Scratchpad.md",
+                "file": "picoCTF/Retos Web/Retos Web - Parte 3/03-Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "right": {
     "id": "b14d24c65e49552e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Web/Retos Web - Parte 2/04-JaWT Scratchpad.md",
+                "file": "picoCTF/Retos Web/Retos Web - Parte 3/03-Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Web/Retos Web - Parte 2/04-JaWT Scratchpad.md",
+                "file": "picoCTF/Retos Web/Retos Web - Parte 3/03-Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Web/Retos Web - Parte 2/04-JaWT Scratchpad.md"
+                "file": "picoCTF/Retos Web/Retos Web - Parte 3/03-Scavenger Hunt.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "02d039af9f63e19b",
   "lastOpenFiles": [
-    "picoCTF/Retos Web/Retos Web - Parte 2/plantilla.md",
+    "picoCTF/Retos Web/Retos Web - Parte 3/02-Cookies.md",
+    "picoCTF/Retos Web/Retos Web - Parte 3/01-GET aHEAD.md",
+    "picoCTF/Retos Web/Retos Web - Parte 3/03-Scavenger Hunt.md",
+    "picoCTF/Retos Web/Retos Web - Parte 3/plantilla.md",
     "picoCTF/Retos Web/Retos Web - Parte 2/04-JaWT Scratchpad.md",
+    "picoCTF/Retos Web/Retos Web - Parte 3",
     "picoCTF/Retos Web/Retos Web - Parte 2/03-Irish-Name-Repo 3.md",
+    "picoCTF/Retos Web/Retos Web - Parte 2/plantilla.md",
     "picoCTF/Retos Web/Retos Web - Parte 2/02-Irish-Name-Repo 2.md",
     "picoCTF/Retos Web/Retos Web - Parte 2/01-Irish-Name-Repo 1.md",
     "picoCTF/Retos Web/Retos Web - Parte 1/01-Insp3ct0r.md",
@@ -172,10 +177,6 @@
     "retos-bandit/Bandit Level 26 → Level 27.md",
     "retos-bandit/Bandit Level 25 → Level 26.md",
     "retos-bandit/Bandit Level 24 → Level 25.md",
-    "retos-bandit/Bandit Level 23 → Level 24.md",
-    "retos-bandit/Bandit Level 22 → Level 23.md",
-    "retos-bandit/Bandit Level 21 → Level 22.md",
-    "retos-bandit/Bandit Level 20 → Level 21.md",
     "picoCTF/primerParcial/parte03",
     "picoCTF/primerParcial/parte02",
     "picoCTF/primerParcial/parte01",
