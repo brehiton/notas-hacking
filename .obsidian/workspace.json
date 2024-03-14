@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Cryptography/04-caesar.md",
+                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Cryptography/04-caesar.md",
+                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Cryptography/04-caesar.md",
+                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Cryptography/04-caesar.md"
+                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md"
               }
             }
           }
@@ -148,33 +148,34 @@
   },
   "active": "e1760510d51c3b3b",
   "lastOpenFiles": [
-    "picoCTF/Retos Cryptography/03-13.md",
-    "picoCTF/Retos Cryptography/02-Easy1.md",
-    "picoCTF/Retos Cryptography/plantilla.md",
-    "picoCTF/Retos Cryptography/04-caesar.md",
-    "picoCTF/Retos Cryptography/01-The Numbers.md",
-    "picoCTF/Retos Web/Retos Web - Parte 1/01-Insp3ct0r.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1/plantilla.md",
-    "picoCTF/Retos Web/Retos Web - Parte 1/plantilla.md",
-    "picoCTF/Retos Cryptography",
-    "picoCTF/Sin título.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1/01-Glory of the Garden.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/01-c0rrupt.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/02-like1000.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/04-WhitePages.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 1/02-extensions.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 1/03-shark on wire 1.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 1/04-So Meta.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
-    "picoCTF/Retos2024/Reverse Engineering/01-packer.md",
-    "picoCTF/Retos2024/Reverse Engineering/02-FactCheck.md",
-    "picoCTF/Retos2024/Reverse Engineering/03-WinAntiDbg0x100.md",
-    "picoCTF/Retos2024/Reverse Engineering/04-Classic Crackme 0x100.md",
-    "picoCTF/Retos2024/Reverse Engineering/05-weirdSnake.md",
-    "picoCTF/Retos2024/Reverse Engineering/06-WinAntiDbg0x200.md",
-    "picoCTF/Retos2024/Reverse Engineering/07-WinAntiDbg0x300.md",
-    "picoCTF/Retos2024/Reverse Engineering/plantilla.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 1/01-Glory of the Garden.md",
     "picoCTF/Retos2024/Forensics/02-Verify.md",
     "picoCTF/Retos2024/Forensics/01-Scan Surprise.md",
-    "picoCTF/Retos2024/Cryptography/02-Custom encryption.md",
-    "picoCTF/Retos2024/Cryptography/01-interencdec.md",
+    "retos-bandit/Bandit Level 6 → Level 7.md",
+    "retos-bandit/Bandit Level 5 → Level 6.md",
+    "retos-bandit/Bandit Level 4 → Level 5.md",
+    "picoCTF/Retos2024/General Skills/09-dont-you-love-banners.md",
+    "picoCTF/Retos2024/General Skills/08-endianness.md",
+    "picoCTF/primerParcial/parte02/04-convertme.py.md",
+    "picoCTF/primerParcial/parte02/05-First Grep.md",
+    "picoCTF/primerParcial/parte02/07-strings it.md",
+    "picoCTF/primerParcial/parte02/08-what's a net cat.md",
+    "picoCTF/primerParcial/parte03/03-PW Crack 1.md",
+    "picoCTF/Retos Cryptography/02-Easy1.md",
+    "picoCTF/Retos2024/General Skills/07-Binary Search.md",
+    "picoCTF/Retos2024/General Skills/05-Collaborative Development.md",
+    "picoCTF/Retos2024/General Skills/06-binhexa.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 2",
+    "picoCTF/Retos Cryptography",
     "picoCTF/Retos2024/Binary Exploitation",
     "picoCTF/Retos2024/General Skills",
     "picoCTF/Retos2024/Forensics",
@@ -182,7 +183,6 @@
     "picoCTF/Retos2024/Web Exploitation",
     "picoCTF/Retos2024/Cryptography",
     "picoCTF/Retos2024",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1",
-    "picoCTF/Retos Forensic"
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 1"
   ]
 }
