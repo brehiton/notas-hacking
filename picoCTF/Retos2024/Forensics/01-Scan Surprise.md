@@ -12,8 +12,8 @@ Mobile phones have included native QR code scanners in their cameras since versi
 If you don't have access to a phone, you can also use zbar-tools to convert an image to text
 ## Solucion
 ```
-
+picoCTF{p33k_@_b00_d4ca652e}
 ```
 ## Notas adicionales 
-
+nomas scanemaos el QR
 ## Referencias 
