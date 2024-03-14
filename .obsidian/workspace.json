@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos2024/Forensics/01-Scan Surprise.md",
+                "file": "picoCTF/Retos2024/Binary Exploitation/01-format string 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos2024/Forensics/01-Scan Surprise.md",
+                "file": "picoCTF/Retos2024/Binary Exploitation/01-format string 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos2024/Forensics/01-Scan Surprise.md",
+                "file": "picoCTF/Retos2024/Binary Exploitation/01-format string 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos2024/Forensics/01-Scan Surprise.md"
+                "file": "picoCTF/Retos2024/Binary Exploitation/01-format string 0.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "e1760510d51c3b3b",
   "lastOpenFiles": [
+    "picoCTF/Retos2024/Forensics/01-Scan Surprise.md",
+    "picoCTF/Retos2024/Binary Exploitation/01-format string 0.md",
+    "picoCTF/Retos2024/Binary Exploitation/plantilla.md",
+    "picoCTF/Retos2024/Reverse Engineering/01-packer.md",
     "picoCTF/Retos2024/Forensics/05-Mob psycho.md",
     "picoCTF/Retos2024/Forensics/04-Secret of the Polyglot.md",
     "picoCTF/Retos2024/Forensics/plantilla.md",
@@ -170,10 +174,6 @@
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2/02-like1000.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 1/02-extensions.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1/03-shark on wire 1.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1/04-So Meta.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1/01-Glory of the Garden.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2",
     "picoCTF/Retos Cryptography",
     "picoCTF/Retos2024/Binary Exploitation",
