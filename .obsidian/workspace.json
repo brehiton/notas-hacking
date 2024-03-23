@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
+                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 3/05-WebNet1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
+                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 3/05-WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
+                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 3/05-WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md"
+                "file": "picoCTF/Retos Forensic/Retos Forensic - Parte 3/05-WebNet1.md"
               }
             }
           }
@@ -148,13 +148,20 @@
   },
   "active": "e1760510d51c3b3b",
   "lastOpenFiles": [
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 3/04-WebNet0.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 3/05-WebNet1.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 3/03-MacroHard WeakEdge.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 3/01-Matryoshka doll.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 3/02-tunn3l v1s10n.md",
+    "picoCTF/Retos2024/Binary Exploitation/01-format string 0.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 3/plantilla.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 3",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2/plantilla.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2/01-c0rrupt.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2/02-like1000.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2/04-WhitePages.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/05-shark on wire 2.md",
-    "picoCTF/Retos2024/Binary Exploitation/01-format string 0.md",
     "picoCTF/Retos2024/Forensics/01-Scan Surprise.md",
     "picoCTF/Retos2024/Binary Exploitation/plantilla.md",
     "picoCTF/Retos2024/Reverse Engineering/01-packer.md",
@@ -168,12 +175,6 @@
     "picoCTF/Retos2024/Cryptography/03-C3.md",
     "picoCTF/Retos2024/Cryptography/04-rsa_oracle.md",
     "picoCTF/Retos2024/Cryptography/05-flag_printer.md",
-    "picoCTF/Retos2024/Forensics/02-Verify.md",
-    "picoCTF/Retos2024/General Skills/06-binhexa.md",
-    "picoCTF/Retos2024/General Skills/07-Binary Search.md",
-    "picoCTF/Retos2024/General Skills/08-endianness.md",
-    "picoCTF/Retos2024/General Skills/10-SansAlpha.md",
-    "picoCTF/Retos2024/General Skills/09-dont-you-love-banners.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2",
     "picoCTF/Retos Cryptography",
     "picoCTF/Retos2024/Binary Exploitation",
@@ -182,7 +183,6 @@
     "picoCTF/Retos2024/Reverse Engineering",
     "picoCTF/Retos2024/Web Exploitation",
     "picoCTF/Retos2024/Cryptography",
-    "picoCTF/Retos2024",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1"
+    "picoCTF/Retos2024"
   ]
 }
