@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/07-St3g0.md",
+                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/07-St3g0.md",
+                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/07-St3g0.md",
+                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/07-St3g0.md"
+                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md"
               }
             }
           }
@@ -148,11 +148,22 @@
   },
   "active": "e1760510d51c3b3b",
   "lastOpenFiles": [
-    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/06-Redaction gone wrong.md",
-    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/05-Packets Primer.md",
-    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/04-Lookey here.md",
-    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/03-Enhance!.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/06-Tapping.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/05-la cifra de.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/04-Easy1.md",
+    "picoCTF/segundoParcial/Parte 1 (Retos Web)/01-Includes.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/03-caesar.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/02-13.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/01-The Numbers.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/plantilla.md",
     "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/02-Wireshark doo dooo do doo....md",
+    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/03-Enhance!.md",
+    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/04-Lookey here.md",
+    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/05-Packets Primer.md",
+    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/06-Redaction gone wrong.md",
+    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/07-St3g0.md",
     "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/01-information.md",
     "picoCTF/segundoParcial/Parte 1 (Retos Web)/09-SQL Direct.md",
     "picoCTF/segundoParcial/Parte 1 (Retos Web)/08-Secrets.md",
@@ -164,16 +175,6 @@
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2/04-WhitePages.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 3/04-WebNet0.md",
     "picoCTF/Retos Web/Retos Web - Parte 1/06-picobrowser.md",
-    "picoCTF/Retos Web/Retos Web - Parte 1/05-Client-side-again.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/06-Power Cookie.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/05-Forbidden Paths.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/04-Search source.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/03-Local Authority.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/02-Inspect HTML.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/01-Includes.md",
-    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/07-St3g0.md",
-    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/plantilla.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/plantilla.md",
     "picoCTF/segundoParcial/Parte 2 (Retos Forensic)",
     "picoCTF/segundoParcial/Parte 1 (Retos Web)",
     "picoCTF/segundoParcial",
@@ -182,7 +183,6 @@
     "picoCTF/Retos Cryptography",
     "picoCTF/Retos2024/Binary Exploitation",
     "picoCTF/Retos2024/General Skills",
-    "picoCTF/Retos2024/Forensics",
-    "picoCTF/Retos2024/Reverse Engineering"
+    "picoCTF/Retos2024/Forensics"
   ]
 }
