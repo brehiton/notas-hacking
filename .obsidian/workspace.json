@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
+                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/05-ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
+                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/05-ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
+                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/05-ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md"
+                "file": "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/05-ReadMyCert.md"
               }
             }
           }
@@ -148,8 +148,20 @@
   },
   "active": "e1760510d51c3b3b",
   "lastOpenFiles": [
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/06-Tapping.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/04-Pixelated.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/05-ReadMyCert.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/03-HideToSee.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/02-basic-mod1.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/01-Mind your Ps and Qs.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 2/02-miniRSA.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 2/03-b00tl3gRSA2.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 2/plantilla.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/plantilla.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 2/01-rsa-pop-quiz.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 2",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/06-Tapping.md",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/05-la cifra de.md",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/04-Easy1.md",
     "picoCTF/segundoParcial/Parte 1 (Retos Web)/01-Includes.md",
@@ -165,24 +177,12 @@
     "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/06-Redaction gone wrong.md",
     "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/07-St3g0.md",
     "picoCTF/segundoParcial/Parte 2 (Retos Forensic)/01-information.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/09-SQL Direct.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/08-Secrets.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/07-Roboto Sans.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1/05-What Lies Within.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 1/04-So Meta.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/01-c0rrupt.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/03-m00nwalk.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 2/04-WhitePages.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 3/04-WebNet0.md",
-    "picoCTF/Retos Web/Retos Web - Parte 1/06-picobrowser.md",
     "picoCTF/segundoParcial/Parte 2 (Retos Forensic)",
     "picoCTF/segundoParcial/Parte 1 (Retos Web)",
     "picoCTF/segundoParcial",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 3",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 2",
     "picoCTF/Retos Cryptography",
-    "picoCTF/Retos2024/Binary Exploitation",
-    "picoCTF/Retos2024/General Skills",
-    "picoCTF/Retos2024/Forensics"
+    "picoCTF/Retos2024/Binary Exploitation"
   ]
 }
