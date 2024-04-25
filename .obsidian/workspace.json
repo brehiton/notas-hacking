@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 1/04-vault-door-4.md",
+                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 1/04-vault-door-4.md",
+                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 1/04-vault-door-4.md",
+                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 1/04-vault-door-4.md"
+                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "e1760510d51c3b3b",
   "lastOpenFiles": [
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/03-vault-door-3.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/02-vault-door-1.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/01-vault-door-training.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/04-vault-door-4.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 2/02-asm2.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 2/03-asm3.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md",
     "picoCTF/Retos Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 2/plantilla.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/01-vault-door-training.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 2",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/02-vault-door-1.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/03-vault-door-3.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/04-vault-door-4.md",
     "picoCTF/Retos Reversing/Retos Reversing - Parte 1/plantilla.md",
     "picoCTF/Retos Forensic/Retos Forensic - Parte 3/05-WebNet1.md",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/05-ReadMyCert.md",
@@ -174,15 +179,10 @@
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/05-la cifra de.md",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/04-Easy1.md",
     "picoCTF/segundoParcial/Parte 1 (Retos Web)/01-Includes.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/03-caesar.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/02-13.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/01-The Numbers.md",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 1",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/plantilla.md",
     "picoCTF/segundoParcial/Parte 2 (Retos Forensic)",
     "picoCTF/segundoParcial/Parte 1 (Retos Web)",
     "picoCTF/segundoParcial",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 3",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 2"
+    "picoCTF/Retos Forensic/Retos Forensic - Parte 3"
   ]
 }
