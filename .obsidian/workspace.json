@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md",
+                "file": "picoCTF/tercerParcial/Parte 1 - Retos Crypto/06-Play Nice.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 275.5
   },
   "right": {
     "id": "b14d24c65e49552e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md",
+                "file": "picoCTF/tercerParcial/Parte 1 - Retos Crypto/06-Play Nice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md",
+                "file": "picoCTF/tercerParcial/Parte 1 - Retos Crypto/06-Play Nice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md"
+                "file": "picoCTF/tercerParcial/Parte 1 - Retos Crypto/06-Play Nice.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "e1760510d51c3b3b",
   "lastOpenFiles": [
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 2/02-asm2.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 2/03-asm3.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 2/01-asm1.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/05-vault-door-5.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 2/plantilla.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/01-vault-door-training.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 2",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/02-vault-door-1.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/03-vault-door-3.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/04-vault-door-4.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1/plantilla.md",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 3/05-WebNet1.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/05-ReadMyCert.md",
-    "picoCTF/Retos Reversing/Retos Reversing - Parte 1",
-    "picoCTF/Retos Reversing",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/04-Pixelated.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/03-HideToSee.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/02-basic-mod1.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/01-Mind your Ps and Qs.md",
+    "picoCTF/tercerParcial/Parte 1 - Retos Crypto/05-Vigenere.md",
+    "picoCTF/tercerParcial/Parte 1 - Retos Crypto/06-Play Nice.md",
+    "picoCTF/tercerParcial/Parte 1 - Retos Crypto/04-substitution1.md",
+    "picoCTF/tercerParcial/Parte 1 - Retos Crypto/03-substitution0.md",
+    "picoCTF/tercerParcial/Parte 1 - Retos Crypto/01-No Padding, No Problem.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/05-la cifra de.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/06-Tapping.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 2/01-rsa-pop-quiz.md",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 2/02-miniRSA.md",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 2/03-b00tl3gRSA2.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 2/plantilla.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/plantilla.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/01-Mind your Ps and Qs.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/02-basic-mod1.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/03-HideToSee.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/04-Pixelated.md",
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 3/05-ReadMyCert.md",
+    "picoCTF/tercerParcial/Parte 1 - Retos Crypto/02-morse-code.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 3/04-Need For Speed.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 3/01-GDB Test Drive.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 3/02-Safe Opener 2.md",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 3/03-reverse_cipher.md",
+    "picoCTF/tercerParcial/Parte 2 - Retos Reversing/10-GDB baby step 2.md",
+    "picoCTF/tercerParcial/Parte 2 - Retos Reversing/09-GDB baby step 1.md",
+    "picoCTF/tercerParcial/Parte 2 - Retos Reversing/08-Bit-O-Asm-4.md",
+    "picoCTF/tercerParcial/Parte 2 - Retos Reversing/06-Bit-O-Asm-2.md",
+    "picoCTF/tercerParcial/Parte 2 - Retos Reversing/07-Bit-O-Asm-3.md",
+    "picoCTF/tercerParcial/Parte 2 - Retos Reversing",
+    "picoCTF/tercerParcial/Parte 1 - Retos Crypto",
+    "picoCTF/tercerParcial",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 3",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 2",
+    "picoCTF/Retos Reversing/Retos Reversing - Parte 1",
+    "picoCTF/Retos Reversing",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 3",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/07-waves over lambda.md",
     "picoCTF/Retos Cryptography/Retos Crypto - Parte 2",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/06-Tapping.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/05-la cifra de.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1/04-Easy1.md",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)/01-Includes.md",
-    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1",
-    "picoCTF/segundoParcial/Parte 2 (Retos Forensic)",
-    "picoCTF/segundoParcial/Parte 1 (Retos Web)",
-    "picoCTF/segundoParcial",
-    "picoCTF/Retos Forensic/Retos Forensic - Parte 3"
+    "picoCTF/Retos Cryptography/Retos Crypto - Parte 1"
   ]
 }
