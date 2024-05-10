@@ -4,8 +4,8 @@ Can you figure out what is in the `eax` register at the end of the `main` fu
 You could calculate `eax` yourself, or you could set a breakpoint for after the calculcation and inspect `eax` to let the program do the heavy-lifting for you.
 ## Solucion
 ```
-
+picoCTF{307019}
 ```
 ## Notas adicionales 
-
+vimos el codigo en ghidra despues en el main y vimos que tambien se parecia entonces hicimos la conversion de hexadecimal del codigo y no dio la bandera 
 ## Referencias 

@@ -4,8 +4,9 @@
 
 ## Solucion
 ```
-
+picoCTF{1|\/|_4_p34|\|ut_8c551048}
 ```
 ## Notas adicionales 
-
+vimos el codigo y vimos que tenia una linea cifrada visitamos al ciberchef y utilizamos la herramineta rot47 por que ahi decia que se decodificaba en rot47
 ## Referencias 
+https://gchq.github.io/CyberChef/#recipe=ROT47(47)&input=QTo0QHIldUxgTS1eTTBjMEFiY00tTUZFMGc0ZGRgX2NnTg

@@ -7,5 +7,6 @@ Not all ancient ciphers were so bad... The flag is not in standard format. `nc 
 
 ```
 ## Notas adicionales 
-
+no me salio este ejercicio
 ## Referencias 
+https://www.dcode.fr/playfair-cipher

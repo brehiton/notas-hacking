@@ -6,8 +6,8 @@ gdb is a very good debugger to use for this problem and many others!
 `main` is actually a recognized symbol that can be used with gdb commands.
 ## Solucion
 ```
-
+picoCTF{549698}
 ```
 ## Notas adicionales 
-
+desarmamos con ghidra vimos el codigo del main y venia en ensamblador y ya solamente pasamos el hexadecimal a entero
 ## Referencias 
